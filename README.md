@@ -1,2 +1,3 @@
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=bubsee&theme=light&show_ring=false&hide_border=true&hide_title=true&order=stars%2Ccommits%2Cgrade%2Chours%2Cstreak%2Crepos%2Cissues%2Cprs%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Ccontributions%2Cfollowers)
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=bubsee&theme=light&days=30&width=320&height=80)
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=bubsee&theme=light&days=30&width=475&height=80&hide_border=true)
